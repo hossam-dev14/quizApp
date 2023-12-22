@@ -1,0 +1,15 @@
+.result{
+    position: absolute;
+    top: 5rem;
+    bottom:5rem;
+    right: 5rem;
+    left: 5rem;
+    width: 70%;
+    height: 70%;
+    background: #000000cf;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+}

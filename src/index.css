@@ -1,0 +1,24 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(268deg, #41ab8e, #2089e9);
+  height: 100vh;
+  width: 100vw;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.m_top_bottom { 
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.p_right_left { 
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
